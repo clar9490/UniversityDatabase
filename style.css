@@ -23,8 +23,9 @@ body{
 .loginbox2{
 	width:320px;
 	height:550px;
-	background:#fff;
-	color:#000;
+	background:#ccfff2
+;
+	color:purple;
 	top:50%;
 	left:50%;
 	position:absolute;
@@ -33,8 +34,31 @@ body{
 	padding:70px 30px;
 }
 
+.loginbox3{
+	width:800px;
+	height:500px;
+	background:#ccfff2;
+
+;
+	color:purple;
+	top:50%;
+	left:50%;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	box-sizing:border-box;
+	padding:70px 30px;
+}
+
+.loginbox4{
+	 height: 1320px;
+  width: 1000px;
+  border: 1px solid blue;
+  background:#ffce99;
+  margin:auto;
+  color:purple;
+}
 h1{
-	margin:0;
+	margin:-5;
 	text-align: center;
 	font-size:22px;
 }
@@ -66,4 +90,58 @@ h1{
 	background:#blue;
 	color:#000;
 	font-size:16px;
+}
+
+.dropbtn{
+	background-color: #fff;
+	color:white;
+	padding:16px;
+	font-size: 16px;
+	border:none;
+	text-align: center;
+}
+
+.dropdown{
+	position:relative;
+	display:inline-block;
+}
+
+.dropdown-content{
+	display:none;
+	position:absolute;
+	background-color:#f1f1f1;
+	min-width:160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  	z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+	background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+.dropdown:hover .dropbtn {
+	background-color: #3e8e41;
+}
+
+.button {
+  border: none;
+  color: Black;
+  padding: 10px 15px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
