@@ -1,6 +1,7 @@
 # UniversityDatabase
 Data management project
 This project is a web-based sample of our ideal functionality of a university database. It includes 3 main components: Staff, Students, Courses. The project entails the collaboration of SQL, JSON and PHP scripting. In this repository, you will find:
+[Database](https://github.com/clar9490/UniversityDatabase/blob/main/project.sql)
 
   	a) Staff Registration Webpage
   
@@ -12,8 +13,8 @@ This project is a web-based sample of our ideal functionality of a university da
   
   	e) Wesbite - Database Connection Code
   
-  	f) [Database](path/to/UniversityDatabase/project.sql)  
-  
+  	f) [Database](https://github.com/clar9490/UniversityDatabase/blob/main/project.sql)  
+    
   	g) Initial Proposal
   
   	h) Final Project Report
