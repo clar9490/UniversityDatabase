@@ -12,7 +12,7 @@ This project is a web-based sample of our ideal functionality of a university da
   
   	e) Wesbite - Database Connection Code
   
-  	f) [Database](https://github.com/clar9490/UniversityDatabase/blob/main/project.sql)  
+  	f) [Database](path/to/UniversityDatabase/project.sql)  
   
   	g) Initial Proposal
   
