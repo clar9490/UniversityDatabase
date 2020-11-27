@@ -12,7 +12,7 @@ This project is a web-based sample of our ideal functionality of a university da
   
   	e) Wesbite - Database Connection Code
   
-  	f) Database  
+  	f) (project.sql) Database  
   
   	g) Initial Proposal
   
