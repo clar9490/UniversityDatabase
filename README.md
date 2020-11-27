@@ -2,23 +2,23 @@
 Data management project
 This project is a web-based sample of our ideal functionality of a university database. It includes 3 main components: Staff, Students, Courses. The project entails the collaboration of SQL, JSON and PHP scripting. In this repository, you will find:
 
-  a) Staff Registration Webpage
+  	a) Staff Registration Webpage
   
-  b) Student Registration Webpage
+  	b) Student Registration Webpage
+  	
+  	c) Homepage & Login
   
-  c) Homepage & Login
+  	d) Website Styling Page
   
-  d) Website Styling Page
+  	e) Wesbite - Database Connection Code
   
-  e) Wesbite - Database Connection Code
+  	f) Database  
   
-  f) Database  
+  	g) Initial Proposal
   
-  g) Initial Proposal
+  	h) Final Project Report
   
-  h) Final Project Report
-  
-  i) Zip File with all the files
+  	i) Zip File with all the files
   
   
   
